@@ -1,6 +1,6 @@
 {
   "name": "hoko-yaribot",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
   "author": "100stacks <100stacks@users.noreply.github.com>",
   "description": "A bot used to integrate with Heroku and Slack",
@@ -20,6 +20,6 @@
     "hubot-shipit": "^0.2.0"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "4.4.5"
   }
 }
