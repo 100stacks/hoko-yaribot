@@ -109,7 +109,7 @@ the `hubot-fun` plugin, but all four of those in `hubot-auto-deploy`.
 }
 ```
 
-**Be aware that not all plugins support this usage and will typically fallback
+**NOTE: Be aware that not all plugins support this usage and will typically fallback
 to including all scripts.**
 
 [npmjs]: https://www.npmjs.com
