@@ -8,6 +8,9 @@ deployed on [Heroku][heroku] to get you up and running as quick as possible.
 Shortened the bot command to **`hoko`** from `hoko-yaribot` as one would have
 to type the full bot name from the `shell` command.
 
+At some point, the plan is to integrate `hoko` with GITHUB API + DOCKER to show
+a simple use case for automated development operations (aka devops).
+
 This README is intended to help get you started. Definitely update and improve
 to talk about your own instance, how to use and deploy, what functionality is
 available, etc!
