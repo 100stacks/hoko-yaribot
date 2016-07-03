@@ -193,10 +193,6 @@ hubot onto Windows][deploy-windows] wiki pages.
 
 ## Campfire Variables
 
-If you are using the Campfire adapter you will need to set some environment
-variables. If not, refer to your adapter documentation for how to configure it,
-links to the adapters can be found on [Hubot Adapters][hubot-adapters].
-
 Create a separate Campfire user for your bot and get their token from the web
 UI.
 
